@@ -97,7 +97,6 @@ namespace Tupiniquim.ConsoleApp
                 }
 
                 // leitura dos comandos do robo 01
-                // criar mensagem de erro/controlador para aceitar apenas números
                 Console.WriteLine();
                 Console.WriteLine("Digite a posição inicial do robo 01.");
 
@@ -154,7 +153,6 @@ namespace Tupiniquim.ConsoleApp
 
 
                 // leitura dos comandos do robo 02
-                // criar mensagem de erro/controlador para aceitar apenas números
                 Console.WriteLine();
                 Console.WriteLine("Digite a posição inicial do robo 02.");
 
